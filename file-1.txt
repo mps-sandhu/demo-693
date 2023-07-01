@@ -4,3 +4,4 @@ this line is added in the f1 branch
 this is 4th line added in f1 branch
 this is 5th line added in f1 branch
 this is 6th line added in f1 branch
+this is 7th line added in f2 branch
